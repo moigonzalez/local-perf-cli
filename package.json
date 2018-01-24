@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Moises Gonzalez <moigonzit@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ngrok": "^2.2.25",
+    "psi": "^3.1.0"
+  }
 }
