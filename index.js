@@ -10,8 +10,8 @@ ngrok.connect({
         throw new Error(`Could not get a server from ngrok!`);
         process.exit(1);
     }
-
-    psi(url).then(data => {
+    psi(url, {strategy: 'desktop'}).then(data => {
         console.log(data);
+        // process.exit(0);
     });
 });
