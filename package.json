@@ -1,6 +1,6 @@
 {
   "name": "local-perf-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Local performance reporting from the command line 💻",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
