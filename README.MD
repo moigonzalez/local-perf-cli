@@ -1,3 +1,3 @@
-### psi-local-cli
+### local-perf-cli
 
-PageSpeed Insights with reporting from the command line 💻
+Local performance reporting from the command line 💻

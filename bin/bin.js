@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-const Psi = require('../lib/psilocal');
+const LocalPerf = require('../lib/localperf');
 
-const psi = new Psi();
+const localPerf = new LocalPerf();
 
-psi.init();
+localPerf.init();

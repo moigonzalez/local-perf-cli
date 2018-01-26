@@ -1,12 +1,12 @@
 {
-  "name": "psilocal-cli",
+  "name": "local-perf-cli",
   "version": "1.0.0",
-  "description": "Getting PSI form the command line",
+  "description": "Local performance reporting from the command line 💻",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "psilocal": "./bin/bin.js"
+    "local-perf": "./bin/bin.js"
   },
   "repository": {
     "type": "git",
