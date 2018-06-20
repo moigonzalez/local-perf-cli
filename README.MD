@@ -28,7 +28,6 @@ Options:
 
 ### TODO
 
-* Add other performance options like lighthouse
 * Save the results for making comparisons between experiments
 
 ### Contributing
