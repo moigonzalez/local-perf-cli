@@ -18,13 +18,18 @@
     "psi",
     "cli",
     "page insights",
+    "lighthouse",
     "ngrok"
   ],
   "author": "Moises Gonzalez <moigonzit@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "chrome-launcher": "^0.10.2",
     "commander": "^2.13.0",
+    "console.table": "^0.10.0",
+    "dotenv": "^5.0.0",
     "eslint": "^4.18.0",
+    "lighthouse": "^2.9.4",
     "ngrok": "^2.2.25",
     "psi": "^3.1.0"
   },
